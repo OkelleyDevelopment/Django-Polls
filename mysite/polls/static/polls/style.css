@@ -1,0 +1,21 @@
+li a {
+  color: green;
+  font-size: 17pt;
+}
+
+body {
+  background-color: #1e2127;
+  max-width: 100%;
+}
+
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  text-decoration: underline;
+}
+
+ul {
+  color: white;
+  margin-left: 10%;
+  margin-top: 5%;
+}
