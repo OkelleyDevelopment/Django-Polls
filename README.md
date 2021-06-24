@@ -23,3 +23,18 @@ official documentation.
 
 Worth the effort and I believe that moving forward, each project will get easier since this
 gave a broad overview of the whole development process.
+
+## Update for Docker
+
+Practicing my containerization skills, I have included the sample Dockerfile and compose yaml
+files. To run them clone this repo and then:
+
+```
+$ docker-compose up
+```
+
+To shut down, in a second terminal (or run the first in detached mode):
+
+```
+$ docker-compose down
+```
